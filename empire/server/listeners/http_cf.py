@@ -50,7 +50,7 @@ class Listener(object):
             "Name": {
                 "Description": "Name for the listener.",
                 "Required": True,
-                "Value": "http",
+                "Value": "http_cf",
             },
             "Host": {
                 "Description": "Hostname/IP for staging.",
